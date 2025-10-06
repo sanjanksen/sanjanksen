@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjan Sen</h1>
-<h3 align="center">Sophomore at Georgia Tech</h3>
+<h3 align="center">Freshman at Georgia Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanksen&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanksen" /> </p>
 
