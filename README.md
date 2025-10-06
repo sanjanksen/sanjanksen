@@ -9,8 +9,7 @@
 
 - 🧠 Some of my favorite past projects include [WoodsideBell](bit.ly/WoodsideBell) (a website previewing each days bell schedule with a countdown and much more) and [FRC Search](https://chromewebstore.google.com/detail/frc-search/kangnlolefciokcghhjmjdojdlmneeih) (a chrome extension to get the quick overview of any FRC Team) and 🔭[TBAHelper](https://github.com/sanjanksen/TBAHelper) (a chrome extension to enhance up your FRC Blue Alliance expirience)
 
-- 🔨 I was the Co-Captain on my highschool's FRC Robotics Team (Team 100) for 4 years, where we code in Java and Python
-- 📫 How to reach me **sanjanksen4@gmail.com**
+- 🔨 I was the Co-Captain on my highschool's FRC Robotics Team (Team 100) where I managed a 50+ person team. I was also the software lead, where we coded mainly in Java and Python working on control schemes for flywheels, drivetrains, arms, etc..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
