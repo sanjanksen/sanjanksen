@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sanjan Sen</h1>
+<h1 align="center">Hi, I'm Sanjan Sen</h1>
 <h3 align="center">Freshman at Georgia Tech</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanksen&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanksen" /> </p>
+- I'm a Co-Founder of **Virtuoso**, a startup backed with $50K from Create X. We won 1st Overall at the AI ATL Hackathon.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjanksen" alt="sanjanksen" /></a> </p>
+- 🔬 I'm currently working in the Georgia Tech research lab coding in Python and C++ on robotic surgery modules.
 
-- 📊 I'm currently developing GamePulse, a micro-betting app for football that received an Honorable Mention at HackGT 12. 
+- 🔨 I was the Co-Captain on my high school's FRC Robotics Team (Team 100) where I managed a 50+ person team. I was also the software lead, where we coded mainly in Java and Python working on control schemes for flywheels, drivetrains, arms, etc.
 
-- 🧠 Some of my favorite past projects include [WoodsideBell](bit.ly/WoodsideBell) (a website previewing each days bell schedule with a countdown and much more) and [FRC Search](https://chromewebstore.google.com/detail/frc-search/kangnlolefciokcghhjmjdojdlmneeih) (a chrome extension to get the quick overview of any FRC Team) and 🔭[TBAHelper](https://github.com/sanjanksen/TBAHelper) (a chrome extension to enhance up your FRC Blue Alliance expirience)
-
-- 🔨 I was the Co-Captain on my highschool's FRC Robotics Team (Team 100) where I managed a 50+ person team. I was also the software lead, where we coded mainly in Java and Python working on control schemes for flywheels, drivetrains, arms, etc..
+- 🧠 Some of my past side projects include [GamePulse](https://github.com/sanjanksen/GamePulse) (a micro-betting app for football that received an Honorable Mention at HackGT 12), [WoodsideBell](bit.ly/WoodsideBell) (a website previewing each day's bell schedule with a countdown and much more), [FRC Search](https://chromewebstore.google.com/detail/frc-search/kangnlolefciokcghhjmjdojdlmneeih) (a Chrome extension to get a quick overview of any FRC Team), and [TBAHelper](https://github.com/sanjanksen/TBAHelper) (a Chrome extension to enhance your FRC Blue Alliance experience).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
