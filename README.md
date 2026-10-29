@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sanjan Sen</h1>
-<h3 align="center">Freshman at Georgia Tech</h3>
+<h3 align="center">Sophomore at Georgia Tech</h3>
 
 - I'm a Co-Founder of **Virtuoso**, a startup backed with $50K from Create X. We won 1st Overall at the AI ATL Hackathon.
 
